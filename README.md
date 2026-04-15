@@ -38,7 +38,7 @@ We visualized the user journey through detailed storyboards and transitioned fro
 ### 3. Iterative Design & Evaluation
 We utilized the **"Think Aloud"** evaluation method with real users and performed **Cognitive Walkthroughs (CWGPT)**. Based on direct feedback, we made crucial UI adjustments, such as introducing real-time calorie calculations and making snack recommendation cards fully interactive.
 
-![Design Evolution: From Paper to App](assets/images/design_evolution.jpg)
+![Design Evolution: From Paper to App](assets/images/design_evolution.png)
 
 ---
 
